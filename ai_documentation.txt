@@ -1,1 +1,1 @@
-Update 9/30: please also include a file in your repo called ai_documentation.txt with prompts and output of any AI/LLM tool you used in the completion of this assignment. If you did not use any tools, please still include the file, but note this inside.
+I used AI to help research what was wrong with the window functions. I used deepseek and it showed me how to find the error and research solutions. All prompts were not saved nor stored. 
